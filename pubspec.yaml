@@ -13,6 +13,17 @@ dependencies:
     sdk: flutter
   flare_splash_screen: ^4.0.0
   cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.4.0
+
+  # firebase and bloc
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.0
+  google_sign_in: ^6.1.0
+  flutter_bloc: ^8.1.2
+  meta: ^1.8.0
+
+  equatable: ^2.0.5
+
 
 dev_dependencies:
   flutter_test:
